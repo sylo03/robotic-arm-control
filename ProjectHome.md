@@ -1,0 +1,1 @@
+control software for manipulator arm, powered by arduino rev. 3 and pololu micro serial servo controller
